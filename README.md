@@ -14,13 +14,6 @@ The College Management System is a comprehensive software solution designed to a
 
 - **Data Management:** Easily view and update information about students, staff, and other relevant data.
 
-## Getting Started
-
-### Prerequisites
-
-- [Node.js](https://nodejs.org/) installed on your machine.
-- [npm](https://www.npmjs.com/) (Node Package Manager) installed.
-
 ### Installation
 
 1. **Clone the Repository:**
